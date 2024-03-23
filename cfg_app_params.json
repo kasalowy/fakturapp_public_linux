@@ -1,0 +1,19 @@
+{
+    "app_info": {
+        "app_name":"FAKTURAPP",
+        "version":"1.0" 
+    },
+    "data_end_date":"2023-01-01",
+    "docker_params":{
+        "img_name":"fakturapp_img",
+        "container_name":"fakturapp",
+        "system_user": "alpine"
+    },
+    "app_bin":"src",
+    "output_dir":"/home/",
+    "file_prefix": "fakturapp_test_export",
+    "api_params":{
+        "api_url":"",
+        "api_token":""
+    }
+}
