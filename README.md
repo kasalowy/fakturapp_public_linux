@@ -9,5 +9,5 @@ The app allows for runing extracting, transforming and exporting data from faktu
 
 By default, Fakturapp is run by giving following command:
 
- sudo bash main.sh
+    sudo bash main.sh
 For the app to build succesful connection with fakurownia.pl, config file has to be filled with both domain address and api token.
